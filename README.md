@@ -1,4 +1,4 @@
-# Olá! Eu sou o Gabriel 👋
+# Olá! Eu sou o João Gabriel 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/jgabrieldsl?label=Follow&style=social)](https://github.com/jgabrieldsl)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/jgabsx/)
