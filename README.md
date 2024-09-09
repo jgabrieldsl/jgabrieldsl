@@ -26,12 +26,13 @@ Eu sou João Gabriel, estou cursando o 2º semestre de Engenharia de Software na
 - Engenharia de Requisitos
 - Sistemas de informação
 
-## Projetos
+## Repositórios
 
-Aqui estão alguns dos meus projetos mais recentes:
+Aqui estão alguns dos meus repositórios mais recentes:
 
 - [Projeto Integrador II - Engenharia de Software](https://github.com/jgabrieldsl/Projeto-Integrador-II)
 - [1° Semestre - PUC Campinas](https://github.com/jgabrieldsl/PUC-1-Semestre)
+- [2° Semestre - PUC Campinas](https://github.com/jgabrieldsl/PUC-2-Semestre)
 
 ## Contato
 
