@@ -1,30 +1,30 @@
-# Olá! Eu sou o João Gabriel 👋
+# Hello! I'm João Gabriel 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/jgabrieldsl?label=Follow&style=social)](https://github.com/jgabrieldsl)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/jgabsx/)
 
-## Sobre mim
+## About Me
 
-Sou João Gabriel, estudante de Engenharia de Software na PUC Campinas e trabalho como Engenheiro de Software Front-end desde 2021. Desenvolvo landing pages, sites institucionais, sistemas web e e-commerce, com atenção especial para interfaces que equilibram funcionalidade e design.
+I'm João Gabriel, a Software Engineering student at PUC Campinas and a Front-end Software Engineer since 2021. I develop landing pages, institutional websites, web systems, and e-commerce platforms, with a focus on creating interfaces that balance functionality and design.
 
-Gosto de usar ferramentas como Figma e Photoshop para criar soluções visuais que melhoram a experiência do usuário. Sou curioso, detalhista e valorizo trabalhar em equipe, sempre buscando aprender e melhorar o que entrego.
+I enjoy using tools like Figma and Photoshop to build visual solutions that enhance user experience. I'm curious, detail-oriented, and value teamwork, always striving to learn and improve my deliverables.
 
-### 🎯 Áreas de Interesse:
-- Desenvolvimento Front-end
+### 🎯 Areas of Interest:
+- Front-end Development
 - UI/UX Design
-- Engenharia de Software
-- Desenvolvimento Web
-- Algoritmos e Estruturas de Dados
+- Software Engineering
+- Web Development
+- Algorithms and Data Structures
 
-### 💻 Tecnologias que utilizo:
-- **Linguagens e Frameworks**: HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS
-- **Back-end e Ferramentas**: Node.js, Python, C, C++
-- **Bancos de Dados**: Oracle, MySQL
-- **Ferramentas e Metodologias**: Git, GitHub, Gitflow, Figma, Photoshop, BPMN, Injeção de Dependência
+### 💻 Technologies I Use:
+- **Languages and Frameworks**: HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS
+- **Back-end and Tools**: Node.js, Python, C, C++
+- **Databases**: Oracle, MySQL, Firebase Firestore, Auth & Functions
+- **Tools and Methodologies**: Git, GitHub, Gitflow, Figma, Photoshop, BPMN, Dependency Injection
 
-## Contato
+## Contact
 
 📧 **Email**: [jgabriel.leite@outlook.com](mailto:jgabriel.leite@outlook.com)  
 👔 **LinkedIn**: [linkedin.com/in/jgabsx](https://www.linkedin.com/in/jgabsx)
 
-Fique à vontade para dar uma olhada nos meus repositórios e colaborar em projetos!
+Feel free to check out my repositories and collaborate on projects! 😄
