@@ -5,7 +5,7 @@
 
 ## Sobre mim
 
-Sou João Gabriel, estudante de Engenharia de Software na PUC Campinas e trabalho como Desenvolvedor Front-end desde 2021. Desenvolvo landing pages, sites institucionais, sistemas web e e-commerce, com atenção especial para interfaces que equilibram funcionalidade e design.
+Sou João Gabriel, estudante de Engenharia de Software na PUC Campinas e trabalho como Engenheiro de Software Front-end desde 2021. Desenvolvo landing pages, sites institucionais, sistemas web e e-commerce, com atenção especial para interfaces que equilibram funcionalidade e design.
 
 Gosto de usar ferramentas como Figma e Photoshop para criar soluções visuais que melhoram a experiência do usuário. Sou curioso, detalhista e valorizo trabalhar em equipe, sempre buscando aprender e melhorar o que entrego.
 
@@ -19,8 +19,8 @@ Gosto de usar ferramentas como Figma e Photoshop para criar soluções visuais q
 ### 💻 Tecnologias que utilizo:
 - **Linguagens e Frameworks**: HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS
 - **Back-end e Ferramentas**: Node.js, Python, C, C++
-- **Bancos de Dados**: Oracle, MySQL, MongoDB
-- **Ferramentas**: Git, GitHub, Figma, Photoshop
+- **Bancos de Dados**: Oracle, MySQL
+- **Ferramentas e Metodologias**: Git, GitHub, Gitflow, Figma, Photoshop, BPMN, Injeção de Dependência
 
 ## Contato
 
