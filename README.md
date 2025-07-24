@@ -25,6 +25,6 @@ I enjoy using tools like Figma and Photoshop to build visual solutions that enha
 ## Contact
 
 📧 **Email**: [jgabriel.leite@outlook.com](mailto:jgabriel.leite@outlook.com)  
-👔 **LinkedIn**: [linkedin.com/in/jgabsx](https://www.linkedin.com/in/jgabsx)
+👔 **LinkedIn**: [linkedin.com/in/jgabsx](https://www.linkedin.com/in/jgabrieldsl)
 
-Feel free to check out my repositories and collaborate on projects! 😄
+Feel free to check out my repositories and collaborate on projects! 
