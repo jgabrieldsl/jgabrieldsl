@@ -30,6 +30,6 @@ I enjoy tech events and communities, and I'm always open to conversations about 
 ## Contact
 
 📧 **Email**: [jgabriel.leite@outlook.com](mailto:jgabriel.leite@outlook.com)
-👔 **LinkedIn**: [linkedin.com/in/jgabsx](https://www.linkedin.com/in/jgabsx/)
+👔 **LinkedIn**: [linkedin.com/in/jgabrieldsl](https://www.linkedin.com/in/jgabrieldsl)
 
 Feel free to explore my repositories and reach out — always open to collaborating on projects that solve real problems.
