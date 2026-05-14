@@ -5,26 +5,31 @@
 
 ## About Me
 
-I'm João Gabriel, a Software Engineering student at PUC Campinas and a Front-end Software Engineer since 2021. I develop landing pages, institutional websites, web systems, and e-commerce platforms, with a focus on creating interfaces that balance functionality and design.
+Frontend developer working in the financial market, with experience ranging from e-commerce platforms to payment systems integrated with Pix and financial integrations. I'm comfortable taking ownership of a problem — from architecture decisions to the final user experience.
 
-I enjoy using tools like Figma and Photoshop to build visual solutions that enhance user experience. I'm curious, detail-oriented, and value teamwork, always striving to learn and improve my deliverables.
+I'm a Software Engineering student at PUC Campinas and have been working professionally since 2021. I'm drawn to fast-paced environments where the work has real, visible impact and learning is part of the daily routine.
 
-### 🎯 Areas of Interest:
-- Front-end Development
+I enjoy tech events and communities, and I'm always open to conversations about software engineering, the financial market, and products that solve real problems.
+
+### 🎯 Areas of Interest
+
+- Frontend Engineering & Architecture
+- Financial Systems & Fintech
 - UI/UX Design
-- Software Engineering
-- Web Development
-- Algorithms and Data Structures
+- Algorithms and complex problem-solving
+- Backend development
 
-### 💻 Technologies I Use:
-- **Languages and Frameworks**: HTML, CSS, JavaScript, TypeScript, React, Tailwind CSS
-- **Back-end and Tools**: Node.js, Python, C, C++
-- **Databases**: Oracle, MySQL, Firebase Firestore, Auth & Functions
-- **Tools and Methodologies**: Git, GitHub, Gitflow, Figma, Photoshop, BPMN, Dependency Injection
+### 💻 Technologies I Use
+
+- **Core Stack**: React, Next.js, TypeScript, JavaScript
+- **Styling**: Tailwind CSS, HTML, CSS
+- **Backend & Tools**: Node.js, Python, C, C++
+- **Databases**: Oracle, MySQL, Firebase (Firestore, Auth & Functions)
+- **Tooling & Methodologies**: Git, GitHub, Gitflow, Figma, Photoshop, BPMN, Dependency Injection
 
 ## Contact
 
-📧 **Email**: [jgabriel.leite@outlook.com](mailto:jgabriel.leite@outlook.com)  
-👔 **LinkedIn**: [linkedin.com/in/jgabsx](https://www.linkedin.com/in/jgabrieldsl)
+📧 **Email**: [jgabriel.leite@outlook.com](mailto:jgabriel.leite@outlook.com)
+👔 **LinkedIn**: [linkedin.com/in/jgabsx](https://www.linkedin.com/in/jgabsx/)
 
-Feel free to check out my repositories and collaborate on projects! 
+Feel free to explore my repositories and reach out — always open to collaborating on projects that solve real problems.
